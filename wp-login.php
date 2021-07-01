@@ -96,9 +96,9 @@ var userProfileL10n = {"user_id":"0","nonce":"5f5c05ffc8"};
 } )( "default", {"translation-revision-date":"2021-06-10 20:43:51+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"Your new password has not been saved.":["No ha sido guardada tu nueva contraseña."],"Hide":["Ocultar"],"Show":["Mostrar"],"Confirm use of weak password":["Confirma el uso de una contraseña débil."],"Hide password":["Ocultar la contraseña"],"Show password":["Mostrar la contraseña"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
 <script src="https://vanillastoreuio.github.io/vanillastoreuio/wp-admin/js/user-profile.min.js?ver=5.7.2" id="user-profile-js"></script>
-	<script>
-	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
-	</script>
-		<div class="clear"></div>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+				<div class="clear"></div>
 	</body>
 	</html>
