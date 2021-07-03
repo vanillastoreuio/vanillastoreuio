@@ -86,7 +86,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/vanillastoreuio\/wp-admin\/admin-ajax.ph
 </script>
 <script src="https://vanillastoreuio.github.io/vanillastoreuio/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"b4c6ff2f78"};
+var userProfileL10n = {"user_id":"0","nonce":"1cf43672ec"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
