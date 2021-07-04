@@ -12,7 +12,11 @@
 <link rel="stylesheet" id="login-css" href="https://vanillastoreuio.github.io/vanillastoreuio/wp-admin/css/login.min.css?ver=5.7.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</title>
+	<link rel="icon" href="https://vanillastoreuio.github.io/vanillastoreuio/wp-content/uploads/2021/07/cropped-Vanilla-Favicon-512px-32x32.png" sizes="32x32">
+<link rel="icon" href="https://vanillastoreuio.github.io/vanillastoreuio/wp-content/uploads/2021/07/cropped-Vanilla-Favicon-512px-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://vanillastoreuio.github.io/vanillastoreuio/wp-content/uploads/2021/07/cropped-Vanilla-Favicon-512px-180x180.png">
+<meta name="msapplication-TileImage" content="https://vanillastoreuio.github.io/vanillastoreuio/wp-content/uploads/2021/07/cropped-Vanilla-Favicon-512px-270x270.png">
+	</title>
 </head>
 	<body class="login no-js login-action-login wp-core-ui  locale-es-es">
 	<script type="text/javascript">
@@ -86,7 +90,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/vanillastoreuio\/wp-admin\/admin-ajax.ph
 </script>
 <script src="https://vanillastoreuio.github.io/vanillastoreuio/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"19148049cc"};
+var userProfileL10n = {"user_id":"0","nonce":"717ae96933"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
