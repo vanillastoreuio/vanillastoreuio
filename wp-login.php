@@ -49,7 +49,7 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://vanillastoreuio.github.io/vanillastoreuio/wp-login.php?action=lostpassword">¿Has olvidado tu contraseña?</a>
+								<a href="https://vanillastoreuio.github.io/vanillastoreuio/mi-cuenta/lost-password/">¿Has olvidado tu contraseña?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -90,7 +90,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/vanillastoreuio\/wp-admin\/admin-ajax.ph
 </script>
 <script src="https://vanillastoreuio.github.io/vanillastoreuio/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"66a2993537"};
+var userProfileL10n = {"user_id":"0","nonce":"1e60c61542"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {

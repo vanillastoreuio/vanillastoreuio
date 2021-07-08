@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Productos &#8211; Vanilla Store UIO</title>
+	<atom:link href="https://vanillastoreuio.github.io/vanillastoreuio/tienda/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vanillastoreuio.github.io/vanillastoreuio</link>
+	<description>Otro sitio realizado con WordPress</description>
+	<lastBuildDate>Mon, 05 Jul 2021 23:46:22 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://vanillastoreuio.github.io/vanillastoreuio/wp-content/uploads/2021/07/cropped-Vanilla-Favicon-512px-32x32.png</url>
+	<title>Productos &#8211; Vanilla Store UIO</title>
+	<link>https://vanillastoreuio.github.io/vanillastoreuio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vanilla Queen I</title>
+		<link>https://vanillastoreuio.github.io/vanillastoreuio/producto/vanilla-queen-i/</link>
+					<comments>https://vanillastoreuio.github.io/vanillastoreuio/producto/vanilla-queen-i/#comments</comments>
+		
+		<dc:creator><![CDATA[vanillastoreuio]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 23:37:09 +0000</pubDate>
+				<guid isPermaLink="false">https://vanillastoreuio.github.io/vanillastoreuio/?post_type=product&#038;p=211</guid>
+
+					<description><![CDATA[La prenda Insignia de la Colección <em>Vanilla &#38; Vanilla [icon name="gem" style="solid" class="" unprefixed_class=""]</em>]]></description>
+										<content:encoded><![CDATA[<p>Tela: Lycra</p>
+<p>Cuello: Off shoulder</p>
+<p>Manga: Larga Básica</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vanillastoreuio.github.io/vanillastoreuio/producto/vanilla-queen-i/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

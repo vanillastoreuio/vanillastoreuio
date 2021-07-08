@@ -4,6 +4,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
 	>
 <channel>
 	<title>
@@ -11,13 +14,41 @@
 	<atom:link href="https://vanillastoreuio.github.io/vanillastoreuio/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://vanillastoreuio.github.io/vanillastoreuio</link>
 	<description>Otro sitio realizado con WordPress</description>
-	<lastBuildDate>Thu, 01 Jul 2021 09:18:09 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Jul 2021 23:46:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
+		<title>
+		Comentario en Vanilla Queen I por vanillastoreuio		</title>
+		<link>https://vanillastoreuio.github.io/vanillastoreuio/producto/vanilla-queen-i/#comment-3</link>
+
+		<dc:creator><![CDATA[vanillastoreuio]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 23:46:22 +0000</pubDate>
+		<guid isPermaLink="false">https://vanillastoreuio.github.io/vanillastoreuio/?post_type=product&#038;p=211#comment-3</guid>
+
+					<description><![CDATA[La luna entre las estrellas.]]></description>
+			<content:encoded><![CDATA[<p>La luna entre las estrellas.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comentario en Vanilla Queen I por vanillastoreuio		</title>
+		<link>https://vanillastoreuio.github.io/vanillastoreuio/producto/vanilla-queen-i/#comment-2</link>
+
+		<dc:creator><![CDATA[vanillastoreuio]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 23:44:24 +0000</pubDate>
+		<guid isPermaLink="false">https://vanillastoreuio.github.io/vanillastoreuio/?post_type=product&#038;p=211#comment-2</guid>
+
+					<description><![CDATA[Único en su clase.]]></description>
+			<content:encoded><![CDATA[<p>Único en su clase.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
 		<title>
 		Comentario en ¡Hola, mundo! por Un comentarista de WordPress		</title>
 		<link>https://vanillastoreuio.github.io/vanillastoreuio/2021/07/01/hola-mundo/#comment-1</link>
